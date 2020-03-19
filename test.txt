@@ -4,6 +4,12 @@ dfsdfas
 dskfasdf
 
 
+<<<<<<< HEAD
 sajdhajd 啥记得你按时阿萨德纳啊 --test
 
 ---这是master上的内容1
+=======
+sajdhajd 啥记得你按时阿萨德纳啊 --test1
+
+ajsda --这是test1分支上添加的内容。
+>>>>>>> test1
